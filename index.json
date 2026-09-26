@@ -1,0 +1,30 @@
+{
+    "format": 1,
+    "name": "fakedm",
+    "description": "FakeDM for Revenge — by 8uvu aka Epitaph",
+    "plugins": {
+        "dev.8uvu.fake-dm": {
+            "name": "FakeDM",
+            "description": "Injects fake messages, calls, system messages, reactions & embeds into any DM or channel. Batch fake conversations. Persists across restarts. Mobile port of your Equicord plugin.",
+            "author": "8uvu aka Epitaph",
+            "channels": {
+                "latest": "1.0.0"
+            },
+            "versions": {
+                "1.0.0": {
+                    "url": "https://8uvu.github.io/fakedm/pool/dev.8uvu.fake-dm@1.0.0.zip",
+                    "sha256": "cd2a3f07f43d57bcf12541832b5711386e62d955da138e04b727de5cb6bb4a02",
+                    "size": 12041,
+                    "dependencies": {
+                        "revenge.api": {
+                            "version": ">=1"
+                        },
+                        "discord": {
+                            "version": "*"
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
