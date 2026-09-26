@@ -14,7 +14,7 @@
             }
         ]
     },
-    "version": "1.0.2",
+    "version": "1.1.0",
     "license": "GPL-3.0-or-later",
     "dependencies": {
         "revenge.api": {
@@ -24,7 +24,7 @@
             "version": "*"
         }
     },
-    "hash": "48c4c475870528cc333342aa5ebfa635101ac454d8aa03ab4a11b7e8dc283d6d",
+    "hash": "7c7ee9c3ec8664d26335cbd2c6fcda772581d622629d395e67f41f2bbdab5c35",
     "authors": [
         {
             "name": "8uvu aka Epitaph"
