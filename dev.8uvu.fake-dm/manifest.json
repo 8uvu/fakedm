@@ -4,7 +4,17 @@
     "name": "FakeDM",
     "description": "Injects fake messages, calls, system messages, reactions & embeds into any DM or channel. Batch fake conversations. Persists across restarts. Mobile port of your Equicord plugin.",
     "author": "8uvu aka Epitaph",
-    "version": "1.0.0",
+    "main": "index.js",
+    "display": {
+        "name": "FakeDM",
+        "description": "Injects fake messages, calls, system messages, reactions & embeds into any DM or channel. Batch fake conversations. Persists across restarts.",
+        "authors": [
+            {
+                "name": "8uvu aka Epitaph"
+            }
+        ]
+    },
+    "version": "1.0.1",
     "license": "GPL-3.0-or-later",
     "dependencies": {
         "revenge.api": {
@@ -14,8 +24,7 @@
             "version": "*"
         }
     },
-    "main": "index.js",
-    "hash": "206f479b4178129a52656068dd447a05924da99166859ec32d2598ba8459d0c6",
+    "hash": "41a038285cc0bbb200284fbcfc5c50be92aeb6681643938e7204afb0c33ab400",
     "authors": [
         {
             "name": "8uvu aka Epitaph"
