@@ -13,7 +13,7 @@
             "versions": {
                 "1.2.2": {
                     "url": "https://8uvu.github.io/fakedm/pool/dev.8uvu.fake-dm@1.2.2.zip",
-                    "sha256": "f53788a3866a17a90b5edabfb1a05664e59d04d45a98b9d959c7fc8fffaa6bbb",
+                    "sha256": "fb217654ce8d69d7b3613812d98fc09437d5816b936bdea3aa7af2358789cacf",
                     "size": 14428,
                     "dependencies": {
                         "revenge.api": {
